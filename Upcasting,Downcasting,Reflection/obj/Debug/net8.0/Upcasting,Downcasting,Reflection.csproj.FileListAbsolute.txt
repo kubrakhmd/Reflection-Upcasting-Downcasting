@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\bin\Debug\net8.0\Upcasting,Downcasting,Reflection.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\bin\Debug\net8.0\Upcasting,Downcasting,Reflection.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\bin\Debug\net8.0\Upcasting,Downcasting,Reflection.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\bin\Debug\net8.0\Upcasting,Downcasting,Reflection.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\bin\Debug\net8.0\Upcasting,Downcasting,Reflection.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\refint\Upcasting,Downcasting,Reflection.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\Upcasting,Downcasting,Reflection.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Reflection,Upcasting,Downcasting\Upcasting,Downcasting,Reflection\Upcasting,Downcasting,Reflection\obj\Debug\net8.0\ref\Upcasting,Downcasting,Reflection.dll
